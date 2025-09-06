@@ -40,43 +40,55 @@ This repository contains my solutions to a series of daily programming exercises
 
 ## 📁 Repository Structure
 20-minute-array-methods/
-├── Challenges/
-│ ├── 01-day-1/
-│ │ └── 01-day-1-split.js
-│ ├── 02-day-2/
-│ │ └── 02-day-2-slice.js
-│ ├── 03-day-3/
-│ │ └── 03-day-3-slice-substring-substr.js
-│ ├── 04-day-4/
-│ │ └── 04-day-4-reverse-join.js
-│ ├── 06-day-6/
-│ │ └── 06-day-6-charat-indexof-lastindexof.js
-│ ├── 09-day-9/
-│ │ └── 09-day-9-forEach.js
-│ ├── 10-day-10/
-│ │ └── 10-day-10-filter.js
-│ ├── 11-day-11/
-│ │ └── 11-day-11-map.js
-│ └── 12-day-12/
-│ └── 12-day-12-reduce-reduceright.js
-├── Hands-on/
-│ ├── 01-day-1/
-│ ├── 02-day-2/
-│ ├── 03-day-3/
-│ ├── 04-day-4/
-│ ├── 05-day-5/
-│ ├── 06-day-6/
-│ ├── 07-day-7/
-│ ├── 08-day-8/
-│ └── 09-day-9/
-├── img.png
-└── README.md
-
+- Challenges
+- - 01-day-1
+- - - 01-day-1-split.js
+- - 02-day-2
+- - - 02-day-2-slice.js
+- - 03-day-3
+- - - 03-day-3-slice-substring-substr.js
+- - 04-day-4
+- - - 04-day-4-reverse-join.js
+- - 06-day-6
+- - - 06-day-6-charat-indexof-lastindexof.js
+- - 09-day-9
+- - - 09-day-9-forEach.js
+- - 10-day-10
+- - - 10-day-10-filter.js
+- - 11-day-11
+- - - 11-day-11-map.js
+- - 12-day-12
+- - - 12-day-12-reduce-reduceright.js
+- Hands-on
+- - 01-day-1
+- - - 01-day-1-split.js
+- - 02-day-2
+- - - 02-day-2-slice.js
+- - 03-day-3
+- - - 03-day-3-slice-substring-substr.js
+- - 04-day-4
+- - - 04-day-4-reverse-join.js
+- - 05-day-5
+- - - 05-day5-shift-unshift-pop-push.js
+- - 06-day-6
+- - - 06-day-6-charat-indexof-lastindexof.js
+- - 07-day-7
+- - - 07-day-7-string-tostring-tofixed-number-parsefloat-parseint.js
+- - 08-day-8
+- - - 08-day-8-math-functions.js
+- - 09-day-9
+- - - 09-day-9-forEach.js
+- - 10-day-10
+- - - 10-day-10-filter.js
+- - 11-day-11
+- - - 11-day-11-map.js
+- - 12-day-12
+- - - 12-day-12-reduce-reduceright.js
+- img.png
+- README.md
 
 ## 🙏 Acknowledgments
 
 - **Travis Rodgers** for creating and sharing the original 20-Minute Array Methods challenge series.
-
 ---
-
 *This repository represents my completed journey through the challenge.*
