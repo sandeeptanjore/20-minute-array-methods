@@ -1,8 +1,7 @@
-![img.png](img.png)
-
 # 20-Minute Array Methods Challenge
 
 A daily practice repository for mastering JavaScript's essential array methods through hands-on exercises. This challenge, created by Travis Rodgers, is designed to build proficiency and fluency in manipulating arrays.
+![img.png](img.png)
 
 ## 🚀 Overview
 
